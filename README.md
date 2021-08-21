@@ -1,2 +1,2 @@
-# TardesOscuras
-Pagina de Radio del Nigga y  P8
+# Didi-Tarjetas
+Marianela Aguero & Ignacio Antuña
