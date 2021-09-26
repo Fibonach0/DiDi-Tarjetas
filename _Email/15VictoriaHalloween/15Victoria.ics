@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.DiDi-Tarjetas.com
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:15Victoria
+BEGIN:VEVENT
+SUMMARY:Los 15 años de Victoria!🎃🦇⚡
+DESCRIPTION:Fiesta de los 15 años de Victoria!.
+Recorda venirte Disfrazad@ porque va a haber PREMIO al mejor disfraz!
+DTSTAMP:20211017T000000Z
+DTSTART:20211017T000000Z
+DTEND:20211017T050000Z
+RRULE:FREQ=WEEKLY;UNTIL=20211017T000000Z
+LOCATION:Bermejo 340, Boulogne, Provincia de Buenos Aires
+BEGIN:VALARM
+TRIGGER;RELATED=END:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Fiesta de los 15 años de Victoria!.
+Recorda venirte Disfrazad@ porque va a haber PREMIO al mejor disfraz!
+END:VALARM
+UID:contacto@diditarjetas.com
+END:VEVENT
+
